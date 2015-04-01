@@ -3,6 +3,6 @@
 int main(void)
 {
     printf("Hello GitHub!\n");
-    printf("Testing merging.\n");
+    printf("Testing windows client.\n");
     return 0;
 }
